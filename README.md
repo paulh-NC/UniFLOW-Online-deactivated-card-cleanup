@@ -53,7 +53,7 @@ The script connects to Graph with:
 
 ### Example
 ```powershell
-.\Entra-UniFLOW-CardCleanup.ps1 `
+.\UniFLOW_Cleanup.ps1 `
   -TenantDomain "yourtenant.eu.uniflowonline.com" `
   -DisabledCsvPath "C:\Temp\DisabledUsers.csv" `
   -LogPath "C:\Temp\CardCleanup.log" `
